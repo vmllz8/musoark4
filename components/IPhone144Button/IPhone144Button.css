@@ -1,0 +1,241 @@
+.iphone-14-4-button {
+  align-items: flex-end;
+  background-color: var(--gun-powder);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  height: 844px;
+  padding: 23px 0;
+  width: 390px;
+}
+
+.overlap-group1 {
+  align-self: center;
+  height: 65px;
+  margin-left: 3.82px;
+  position: relative;
+  width: 338px;
+}
+
+.ellipse-19 {
+  cursor: pointer;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 38px;
+}
+
+.arrow-5 {
+  height: 22px;
+  left: 8px;
+  position: absolute;
+  top: 36px;
+  width: 22px;
+}
+
+.overlap-group {
+  height: 708px;
+  position: relative;
+  width: 366px;
+}
+
+.text-1 {
+  color: var(--black);
+  direction: rtl;
+  font-family: var(--font-family-noto_sans_arabic);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 107px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 247px;
+}
+
+.hlal-1 {
+  height: 44px;
+  left: 127px;
+  object-fit: cover;
+  position: absolute;
+  top: 562px;
+  width: 46px;
+}
+
+.vector-1 {
+  height: 180px;
+  left: 101px;
+  position: absolute;
+  top: 528px;
+  width: 125px;
+}
+
+.rectangle-5 {
+  background: linear-gradient(180deg, rgb(216, 192, 177) 0%, rgb(63, 61, 86) 100%);
+  height: 15px;
+  left: 185px;
+  position: absolute;
+  top: 627px;
+  width: 40px;
+}
+
+.rectangle-6 {
+  background: linear-gradient(180deg, rgb(216, 192, 177) 0%, rgb(63, 61, 86) 100%);
+  height: 15px;
+  left: 173px;
+  position: absolute;
+  top: 642px;
+  width: 52px;
+}
+
+.rectangle-7 {
+  background: linear-gradient(180deg, rgb(216, 192, 177) 0%, rgb(63, 61, 86) 100%);
+  height: 16px;
+  left: 161px;
+  position: absolute;
+  top: 657px;
+  width: 64px;
+}
+
+.rectangle-8 {
+  background: linear-gradient(180deg, rgb(216, 192, 177) 0%, rgb(63, 61, 86) 100%);
+  height: 16px;
+  left: 150px;
+  position: absolute;
+  top: 673px;
+  width: 75px;
+}
+
+.group-5 {
+  display: flex;
+  flex-direction: column;
+  height: 523px;
+  left: 19px;
+  position: absolute;
+  top: 184px;
+  width: 314px;
+}
+
+.rectangle-2 {
+  background-color: #d9d9d9;
+  border-radius: 35px;
+  height: 198px;
+  margin-left: 7px;
+  width: 296px;
+}
+
+.rectangle-3 {
+  background: linear-gradient(180deg, rgb(63, 61, 86) 0%, rgb(177.44, 150.14, 133.08) 100%);
+  border-radius: 35px;
+  height: 100px;
+  margin-top: 40px;
+}
+
+.rectangle-11 {
+  background: linear-gradient(180deg, rgb(216, 192, 177) 0%, rgb(63, 61, 86) 100%);
+  height: 15px;
+  margin-left: 178px;
+  margin-top: 90px;
+  width: 28px;
+}
+
+.rectangle-9 {
+  background: linear-gradient(180deg, rgb(216, 192, 177) 0%, rgb(63, 61, 86) 100%);
+  height: 19px;
+  margin-left: 82px;
+  margin-top: 61px;
+  width: 124px;
+}
+
+.vector {
+  height: 13px;
+  left: 160px;
+  position: absolute;
+  top: 150px;
+  width: 17px;
+}
+
+.vector-2 {
+  height: 12px;
+  left: 89px;
+  position: absolute;
+  top: 150px;
+  width: 12px;
+}
+
+.vector-3 {
+  height: 11px;
+  left: 236px;
+  position: absolute;
+  top: 151px;
+  width: 14px;
+}
+
+.text-3 {
+  color: transparent;
+  direction: rtl;
+  font-family: var(--font-family-noto_sans_arabic);
+  font-size: var(--font-size-s2);
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 427px;
+  width: 278px;
+}
+
+.span1 {
+  color: #fffbf6;
+}
+
+.span3 {
+  color: var(--spring-wood);
+  font-family: var(--font-family-cairo);
+}
+
+.group-3 {
+  height: 231px;
+  left: 46px;
+  position: absolute;
+  top: 27px;
+  width: 320px;
+}
+
+.text-4 {
+  direction: rtl;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  width: 54px;
+}
+
+.text-5 {
+  direction: rtl;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  width: 35px;
+}
+
+.text-6 {
+  direction: rtl;
+  left: 231px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  width: 76px;
+}
+

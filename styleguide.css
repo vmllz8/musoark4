@@ -1,0 +1,37 @@
+:root { 
+  --black: #000000;
+  --gun-powder: #3f3d56;
+  --spring-wood: #fbf6f0;
+ 
+  --font-size-l: 16px;
+  --font-size-s2: 14px;
+  --font-size-xl: 24px;
+  --font-size-xs: 12px;
+ 
+  --font-family-cairo: "Cairo", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-noto_sans_arabic: "Noto Sans Arabic", Helvetica;
+}
+.notosansarabic-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_arabic);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notosansarabic-normal-spring-wood-14px {
+  color: var(--spring-wood);
+  font-family: var(--font-family-noto_sans_arabic);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}

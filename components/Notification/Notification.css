@@ -1,0 +1,39 @@
+.notification {
+  align-items: flex-start;
+  display: flex;
+  height: 37px;
+  left: 0;
+  min-width: 338px;
+  position: absolute;
+  top: 0;
+}
+
+.text-2 {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -1px;
+  min-height: 35px;
+  width: 88px;
+}
+
+.icon-bar_chart {
+  height: 18px;
+  margin-left: 176px;
+  width: 20px;
+}
+
+.icon-signal {
+  height: 15px;
+  margin-left: 5px;
+  margin-top: 2.63px;
+  width: 22px;
+}
+
+.vector-4 {
+  height: 11px;
+  margin-left: 5px;
+  margin-top: 5.27px;
+  width: 22px;
+}
+
